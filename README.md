@@ -1,6 +1,11 @@
 <h1>Hi there, welcome to my GitHub! 👋</h1>
 
-<h3>Click here to checkout my LinkedIn<h3> <a href='https://www.linkedin.com/in/orenjiku/'><img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' /> </a>
+<h3>Click here to checkout my LinkedIn</h3> 
+<span>
+  <a href='https://www.linkedin.com/in/orenjiku/'>
+    <img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' /> 
+  </a>
+</span>
 
 
 🏢 Looking for work!
