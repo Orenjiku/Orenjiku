@@ -1,11 +1,10 @@
-Hi there, welcome to my GitHub! 👋
+<p fontSize='20'>Hi there, welcome to my GitHub! 👋<p>
 
-<a href='https://www.linkedin.com/in/orenjiku/'><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a>
+<a href='https://www.linkedin.com/in/orenjiku/'><img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' /> </a>
 
 
 🏢 Looking for work!
 Languages & Tools
-<br>
 <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" />
 
 
