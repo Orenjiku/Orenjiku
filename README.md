@@ -1,6 +1,6 @@
 Hi there, welcome to my GitHub! 👋
 
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+<a href='https://www.linkedin.com/in/orenjiku/'><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a>
 
 
 🏢 Looking for work!
