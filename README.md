@@ -1,4 +1,11 @@
-### Hi there 👋
+Hi there, welcome to my GitHub! 👋
+
+https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
+
+🏢 Looking for work!
+Languages & Tools
+https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white
+
 
 <!--
 **Orenjiku/Orenjiku** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
