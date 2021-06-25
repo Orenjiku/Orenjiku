@@ -2,7 +2,7 @@
 
 <h3>Click here to checkout my LinkedIn</h3> 
 <span>
-  <a href='https://www.linkedin.com/in/orenjiku/'>
+  <a href='https://www.linkedin.com/in/orenjiku/' style='display:inline'>
     <img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' /> 
   </a>
 </span>
