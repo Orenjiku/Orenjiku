@@ -1,10 +1,12 @@
 Hi there, welcome to my GitHub! 👋
 
-https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
+[<img align="left" alt="medium" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />]
+
 
 🏢 Looking for work!
 Languages & Tools
-https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white
+[<img align="left" alt="medium" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" />]
+
 
 
 <!--
