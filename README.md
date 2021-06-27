@@ -13,17 +13,17 @@
 
 ## About Me :information_desk_person:
 
-:star2: Honest and respectful  
+#### :star2: &nbsp; Honest and respectful  
 
-:eyes: Mindful and diligent  
+#### :eyes: &nbsp; Mindful and diligent  
 
-:wolf: Independent and collaborative  
+#### :wolf: &nbsp; Independent and collaborative  
 
-:bulb: Logical and inquisitive  
+#### :bulb: &nbsp; Logical and inquisitive  
 
-:honeybee: Loyal and reliable   
+#### :honeybee: &nbsp; Loyal and reliable   
 
-:heart: Empathetic and supportive  
+#### :heart: &nbsp; Empathetic and supportive  
 
 :runner: :bicyclist: :books: :game_die: :video_game: :bread:  
 
