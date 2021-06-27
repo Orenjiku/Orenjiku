@@ -41,7 +41,7 @@
 
 <span><img src='https://img.shields.io/badge/Node.js-43853D?logo=node.js&logoColor=white' alt='nodejs' height='20px'/>
 <img src='https://img.shields.io/badge/Express-000000?logo=express&logoColor=white' alt='express' height='20px'/>
-<img src='https://img.shields.io/badge/MySQL-004088?logo=mysql&logoColor=white' alt='mysql' height='20px'/>
+<img src='https://img.shields.io/badge/MySQL-7E7E7E?logo=mysql&logoColor=white' alt='mysql' height='20px'/>
 <img src='https://img.shields.io/badge/MongoDB-4EA94B?logo=mongodb&logoColor=white' alt='mongodb' height='20px'/>
 <img src='https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=white' alt='npm' height='20px'/>
 <img src='https://img.shields.io/badge/Yarn-2C8EBB?logo=yarn&logoColor=white' alt='yarn' height='20px'/>
