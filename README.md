@@ -1,5 +1,5 @@
 
-# Hi there, I'm Will! 👋
+## Hi there, I'm Will! 👋
 
 <a href='https://www.linkedin.com/in/orenjiku/' >
   <img src='https://img.shields.io/badge/Orenjiku-0077B5?logo=linkedin&logoColor=white' alt='linkedin' height='25px' /> 
@@ -11,7 +11,7 @@
   <img src='https://img.shields.io/badge/Orenjiku-D14836?logo=gmail&logoColor=white' alt='gmail' height='25px'/> 
 </a>
 
-## About me :grinning:
+### About me :grinning:
 
 :star2: &nbsp; Honest and respectful  
 
@@ -28,7 +28,7 @@
 :runner: :bicyclist: :books: :game_die: :video_game: :bread:  
 
 
-## Languages & Tools :speech_balloon: :hammer:
+### Languages & Tools :speech_balloon: :hammer:
 <span><img src='https://img.shields.io/badge/JavaScript-323330?logo=javascript&logoColor=F7DF1E' alt='js' height='25px'/>
 <img src='https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB' alt='react' height='25px'/>
 <img src='https://img.shields.io/badge/Redux-593D88?logo=redux&logoColor=white' alt='redux' height='25px'/>
