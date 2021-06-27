@@ -11,17 +11,17 @@
   <img src='https://img.shields.io/badge/Orenjiku-D14836?logo=gmail&logoColor=white' alt='gmail' height='25px'/> 
 </a>
 
-## About Me :grinning:
+## About Me :information_desk_person:
 
-:star: Honest and respectful  
+:star2: Honest and respectful  
 
 :eyes: Mindful and diligent  
 
-:information_desk_person: Independent and collaborative  
+:wolf: Independent and collaborative  
 
-:bulb: Logical and creative  
+:bulb: Logical and inquisitive  
 
-:battery: Loyal and reliable   
+:honeybee: Loyal and reliable   
 
 :heart: Empathetic and supportive  
 
