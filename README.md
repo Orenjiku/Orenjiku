@@ -11,7 +11,7 @@
   <img src='https://img.shields.io/badge/Orenjiku-D14836?logo=gmail&logoColor=white' alt='gmail' height='25px'/> 
 </a>
 
-## About me :information_desk_person:
+## About me :grinning:
 
 :star2: &nbsp; Honest and respectful  
 
