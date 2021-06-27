@@ -7,23 +7,23 @@
 <a href='https://www.github.com/Orenjiku/' >
   <img src='https://img.shields.io/badge/Orenjiku-100000?logo=github&logoColor=white' alt='github' height='25px'/> 
 </a>
-<a href='wdchang86@gmail.com' >
+<a href='mailto: wdchang86@gmail.com' >
   <img src='https://img.shields.io/badge/Orenjiku-D14836?logo=gmail&logoColor=white' alt='gmail' height='25px'/> 
 </a>
 
-## About Me :information_desk_person:
+## About me :information_desk_person:
 
-#### :star2: &nbsp; Honest and respectful  
+:star2: &nbsp; Honest and respectful  
 
-#### :eyes: &nbsp; Mindful and diligent  
+:eyes: &nbsp; Mindful and diligent  
 
-#### :wolf: &nbsp; Independent and collaborative  
+:wolf: &nbsp; Independent and collaborative  
 
-#### :bulb: &nbsp; Logical and inquisitive  
+:bulb: &nbsp; Logical and inquisitive  
 
-#### :honeybee: &nbsp; Loyal and reliable   
+:honeybee: &nbsp; Loyal and reliable   
 
-#### :heart: &nbsp; Empathetic and supportive  
+:heart: &nbsp; Empathetic and supportive  
 
 :runner: :bicyclist: :books: :game_die: :video_game: :bread:  
 
