@@ -25,7 +25,7 @@
 
 :heart: &nbsp; Empathetic and supportive  
 
-:runner: :bicyclist: :books: :game_die: :video_game: :bread:  
+:runner: &nbsp; :bicyclist: &nbsp; :books: &nbsp; :game_die: &nbsp; :video_game: &nbsp; :bread:  
 
 > :rocket: Journey before destination :full_moon: - Brandon Sanderson
 
