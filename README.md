@@ -27,7 +27,9 @@
 
 :runner: &nbsp; :bicyclist: &nbsp; :books: &nbsp; :game_die: &nbsp; :video_game: &nbsp; :bread:  
 
-> :rocket: Journey before destination :full_moon: - Brandon Sanderson
+> :rocket: Journey before destination :full_moon:  
+> 
+> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;- Brandon Sanderson
 
 ### Languages & Tools :speech_balloon: :hammer:
 <span><img src='https://img.shields.io/badge/JavaScript-323330?logo=javascript&logoColor=F7DF1E' alt='js' height='20px'/>
