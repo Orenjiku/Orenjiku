@@ -46,7 +46,7 @@
 <img src='https://img.shields.io/badge/Express-000000?logo=express&logoColor=white' alt='express' height='20px'/></span>
   
 <span><img src='https://img.shields.io/badge/Webpack-8DD6F9?logo=webpack&logoColor=black' alt='webpack' height='20px'/>
-<img src='https://img.shields.io/badge/Snowpack-94C7E9?logo=snowpack&logoColor=white' alt='snowpack' height='20px'/>
+<img src='https://img.shields.io/badge/Snowpack-B2D6F8?logo=snowpack&logoColor=white' alt='snowpack' height='20px'/>
 <img src='https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=white' alt='npm' height='20px'/>
 <img src='https://img.shields.io/badge/Yarn-2C8EBB?logo=yarn&logoColor=white' alt='yarn' height='20px'/>
 <img src='https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white' alt='git' height='20px'/></span>
