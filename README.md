@@ -33,11 +33,14 @@
 
 ### Languages & Tools :speech_balloon: :hammer:
 <span><img src='https://img.shields.io/badge/JavaScript-323330?logo=javascript&logoColor=F7DF1E' alt='js' height='20px'/>
+<img src='https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white' alt='ts' height='20px' />
 <img src='https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB' alt='react' height='20px'/>
 <img src='https://img.shields.io/badge/Redux-593D88?logo=redux&logoColor=white' alt='redux' height='20px'/>
+<img src='https://img.shields.io/badge/styled--components-DB7093?logo=styled-components&logoColor=white' alt='styled' height='20px' />
+<img src='https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white' alt='tailwind' height='20px'/>
 <img src='https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white' alt='html' height='20px'/>
 <img src='https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white' alt='css' height='20px'/>
-<img src='https://img.shields.io/badge/jQuery-FF9E0F?logo=jquery&logoColor=white' alt='jquery' height='20px'/>
+<img src='https://img.shields.io/badge/jQuery-FF9E0F?logo=jquery&logoColor=white' alt='jquery' height='20px'/></span>
 
 <span><img src='https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white' alt='postgresql' height='20px' />
 <img src='https://img.shields.io/badge/MySQL-7E7E7E?logo=mysql&logoColor=white' alt='mysql' height='20px'/>
