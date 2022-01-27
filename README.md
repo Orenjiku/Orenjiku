@@ -48,6 +48,9 @@
 <img src='https://img.shields.io/badge/Node.js-43853D?logo=node.js&logoColor=white' alt='nodejs' height='20px'/>
 <img src='https://img.shields.io/badge/Express-000000?logo=express&logoColor=white' alt='express' height='20px'/></span>
   
+<span><img src='https://img.shields.io/badge/jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white' alt='jest' height='20px' />
+<img src='https://img.shields.io/badge/-ReactTestingLibrary-%23E33332?style=for-the-badge&logo=testing-library&logoColor=white' alt='react-testing-library' height='20px'/></span>
+  
 <span><img src='https://img.shields.io/badge/Webpack-8DD6F9?logo=webpack&logoColor=black' alt='webpack' height='20px'/>
 <img src='https://img.shields.io/badge/Snowpack-B2D6F8?logo=snowpack&logoColor=white' alt='snowpack' height='20px'/>
 <img src='https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=white' alt='npm' height='20px'/>
